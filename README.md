@@ -115,27 +115,3 @@ For Visual Studio Code/CLI:
 
 [Use the LibMan command-line interface (CLI) with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/client-side/libman/libman-cli?view=aspnetcore-2.2)
 
-
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [Semantic Versioning 2.0](http://semver.org/) for versioning. For the versions available, see the [releases on this repository](https://github.com/dynamic-technologies/ASP.NET-Core-2.0-AdminLTE-Templates/releases). 
-
-## Authors
-
-* **[Leonid Shishkin](https://github.com/leonex)** - *Initial work*
-* **[.Net Express Team](https://github.com/dotnet-express)** - *Support and development*
-
-See also the list of [contributors](https://github.com/dotnet-express/AdminLTE/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details
-
-## Acknowledgments
-
-* [Abdullah Almasaeed](https://adminlte.io/about) for great [AdminLTE](https://adminlte.io) Template project.
